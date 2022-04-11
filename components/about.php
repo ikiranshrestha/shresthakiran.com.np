@@ -17,7 +17,9 @@
                 <div class="col-md-7 col-md-offset-5">
                   <div class="about-box-text">
                     <h4>𑐖𑑂𑐰𑐖𑐮𑐥𑐵, नमस्ते, Hello</h4>
-                    <p>I am a software development engineer based in Lalitpur, Nepal.</p>
+                    <p>I am a software development engineer based in Lalitpur, Nepal.
+                      <br>
+                      I build web and mobile applications for solving real-life problems. </p>
                     <div class="primary-button">
                       <a href="#3">Discover More</a>
                     </div>
